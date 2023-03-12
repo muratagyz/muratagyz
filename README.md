@@ -22,14 +22,13 @@
     <a href="https://github-readme-streak-stats.herokuapp.com/?user=muratagyz&background=0B0E14&border=151B26&stroke=151B26&dates=3B4C6B&sideNums=00B0FF&sideLabels=00B0FF&currStreakNum=C9D1D9&ring=FF4747&fire=FF4747&currStreakLabel=FF4747">
     <img width="495px" src="https://github-readme-streak-stats.herokuapp.com/?user=muratagyz&background=0B0E14&border=151B26&stroke=151B26&dates=3B4C6B&sideNums=00B0FF&sideLabels=00B0FF&currStreakNum=C9D1D9&ring=FF4747&fire=FF4747&currStreakLabel=FF4747" alt="Murat Ağyüz">
   </a>
-  </tr>
-  <tr>
-  </td>
- <a href="https://github-readme-activity-graph.cyclic.app/graph?username=muratagyz&bg_color=000000&color=00b0ff&line=ff4747&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img width="495px" src="https://github-readme-activity-graph.cyclic.app/graph?username=muratagyz&bg_color=000000&color=00b0ff&line=ff4747&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" alt="Murat Ağyüz">
-  <td colspan="2">
-
   </td>
 </tr>
 </table>
+</p>
+
+<p>
+ <a href="https://github-readme-activity-graph.cyclic.app/graph?username=muratagyz&bg_color=000000&color=00b0ff&line=ff4747&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img width="495px" src="https://github-readme-activity-graph.cyclic.app/graph?username=muratagyz&bg_color=000000&color=00b0ff&line=ff4747&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" alt="Murat Ağyüz">
+  <td colspan="2">
 </p>
