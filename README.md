@@ -26,9 +26,3 @@
 </tr>
 </table>
 </p>
-
-<p>
- <a href="https://github-readme-activity-graph.cyclic.app/graph?username=muratagyz&bg_color=0b0e14&color=00b0ff&line=ff4747&point=403d3d&area=true&hide_border=true">
-    <img width="900px" src="https://github-readme-activity-graph.cyclic.app/graph?username=muratagyz&bg_color=0b0e14&color=00b0ff&line=ff4747&point=403d3d&area=true&hide_border=true" alt="Murat Ağyüz">
-  <td colspan="2">
-</p>
