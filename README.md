@@ -77,6 +77,10 @@
 
 ###
 
+<p align="left">Technology Stacks:</p>
+
+###
+
 <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
   <tr>
     <td width="120" valign="top" style="border: none;">
