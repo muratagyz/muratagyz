@@ -77,7 +77,7 @@
 
 ###
 
-<p align="left">Technology Stacks:</p>
+<p align="left">Medium Posts:</p>
 
 ###
 
