@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm Murat</h2>
+<h1 align="left">Hi 👋, I'm Murat</h1>
 
 ###
 
@@ -77,16 +77,46 @@
 
 ###
 
-<div align="left" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@muratagyuz/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@muratagyuz/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@muratagyuz/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@muratagyuz/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@muratagyuz/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@muratagyuz/2" alt="Medium post 3"  />
-  </a>
-</div>
+<table>
+  <tr>
+    <td width="120" valign="top">
+      <a href="https://medium.com/@muratagyuz/asp-net-data-protection-g%C3%BCvenli-veri-%C5%9Fifreleme-ve-koruma-y%C3%B6ntemleri-73c5f3ed9c97" target="_blank">
+        <img src="https://miro.medium.com/v2/resize:fit:300/1*ozz64Y6mwvGbxxQSQvIFXQ.jpeg" alt="ASP.NET Data Protection" width="120" style="border-radius: 4px;" />
+      </a>
+    </td>
+    <td valign="middle" style="padding-left: 12px;">
+      <a href="https://medium.com/@muratagyuz/asp-net-data-protection-g%C3%BCvenli-veri-%C5%9Fifreleme-ve-koruma-y%C3%B6ntemleri-73c5f3ed9c97" target="_blank" style="text-decoration: none; color: inherit; font-weight: bold;">
+        ASP.NET Data Protection: Güvenli Veri Şifreleme ve Koruma Yöntemleri
+      </a>
+    </td>
+  </tr>
+  <tr><td colspan="2" height="10"></td></tr>
+  <tr>
+    <td width="120" valign="top">
+      <a href="https://medium.com/@muratagyuz/vertical-slice-architecture-dikey-dilim-mimari-24675b121977" target="_blank">
+        <img src="https://miro.medium.com/v2/resize:fit:300/1*X1dLDt10AslowberNjeOng.png" alt="Vertical Slice Architecture" width="120" style="border-radius: 4px;" />
+      </a>
+    </td>
+    <td valign="middle" style="padding-left: 12px;">
+      <a href="https://medium.com/@muratagyuz/vertical-slice-architecture-dikey-dilim-mimari-24675b121977" target="_blank" style="text-decoration: none; color: inherit; font-weight: bold;">
+        Vertical Slice Architecture (Dikey Dilim Mimari)
+      </a>
+    </td>
+  </tr>
+  <tr><td colspan="2" height="10"></td></tr>
+  <tr>
+    <td width="120" valign="top">
+      <a href="https://medium.com/@muratagyuz/redis-neden-tercih-ediliyor-avantajlar%C4%B1-ve-uygulama-alanlar%C4%B1-59c09d1b84c6" target="_blank">
+        <img src="https://miro.medium.com/v2/resize:fit:300/1*pYCtrvMgmXWY-ZY2E-wAsw.png" alt="Redis Neden Tercih Ediliyor?" width="120" style="border-radius: 4px;" />
+      </a>
+    </td>
+    <td valign="middle" style="padding-left: 12px;">
+      <a href="https://medium.com/@muratagyuz/redis-neden-tercih-ediliyor-avantajlar%C4%B1-ve-uygulama-alanlar%C4%B1-59c09d1b84c6" target="_blank" style="text-decoration: none; color: inherit; font-weight: bold;">
+        Redis Neden Tercih Ediliyor? Avantajları ve Uygulama Alanları
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 ###
